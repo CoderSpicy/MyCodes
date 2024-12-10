@@ -1,0 +1,14 @@
+C:\Users\C#\source\repos\GradesCalculator\bin\Debug\net8.0\GradesCalculator.exe
+C:\Users\C#\source\repos\GradesCalculator\bin\Debug\net8.0\GradesCalculator.deps.json
+C:\Users\C#\source\repos\GradesCalculator\bin\Debug\net8.0\GradesCalculator.runtimeconfig.json
+C:\Users\C#\source\repos\GradesCalculator\bin\Debug\net8.0\GradesCalculator.dll
+C:\Users\C#\source\repos\GradesCalculator\bin\Debug\net8.0\GradesCalculator.pdb
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.AssemblyInfoInputs.cache
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.AssemblyInfo.cs
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.dll
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\refint\GradesCalculator.dll
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.pdb
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\GradesCalculator.genruntimeconfig.cache
+C:\Users\C#\source\repos\GradesCalculator\obj\Debug\net8.0\ref\GradesCalculator.dll
