@@ -1,0 +1,15 @@
+C:\Users\C#\source\repos\Guess a number\bin\Debug\net8.0\Guess a number.exe
+C:\Users\C#\source\repos\Guess a number\bin\Debug\net8.0\Guess a number.deps.json
+C:\Users\C#\source\repos\Guess a number\bin\Debug\net8.0\Guess a number.runtimeconfig.json
+C:\Users\C#\source\repos\Guess a number\bin\Debug\net8.0\Guess a number.dll
+C:\Users\C#\source\repos\Guess a number\bin\Debug\net8.0\Guess a number.pdb
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.AssemblyInfoInputs.cache
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.AssemblyInfo.cs
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.csproj.CoreCompileInputs.cache
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.sourcelink.json
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.dll
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\refint\Guess a number.dll
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.pdb
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\Guess a number.genruntimeconfig.cache
+C:\Users\C#\source\repos\Guess a number\obj\Debug\net8.0\ref\Guess a number.dll
